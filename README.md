@@ -1,1 +1,1 @@
-# odin-recipes
+Currently, I am making my way through the Odin Project. Throughout this curriculum I will strengthen my coding and programming abilities. I already have a grasp on HTML and CSS, but through this project maybe I will learn something new.
